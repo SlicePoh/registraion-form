@@ -1,0 +1,30 @@
+.nav{
+    background: rgb(30,255,0);
+    background: linear-gradient(158deg, rgba(30,255,0,1) 0%, rgba(236,241,1,1) 52%, rgba(255,51,0,1) 100%);
+}
+.form-control{
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 2px 0px 0px 6px;
+    box-shadow: 0.2rem 0.2rem 0.5rem black;
+    
+}
+.form-label{
+    font-size: 1.5rem;
+}
+.btn{
+    padding: 10px;
+    margin: 10px;
+    border: 2px solid black;
+    border-radius: 10px;
+    box-shadow: 0.5rem 0.5rem 2rem gray;
+}
+.btn:hover{
+    box-shadow: 0.5rem 0.5rem 1rem gray;
+    transition:400ms;
+    transform: translateY(-3px);    
+}
+.profile{
+    box-shadow: 0.2rem 0.2rem 1rem gray;
+
+}
